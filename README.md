@@ -1,4 +1,4 @@
-# 👩‍💻 Stheffanny Nascimento
+# 👩🏿‍💻 Stheffanny Nascimento
 
 🎓 Estudante de Engenharia de Computação na UEFS | 🚀 Entusiasta em Cibersegurança  
 🔐 Foco em Segurança Ofensiva, Defensiva e Forense Digital | 🌱 Em constante aprendizado
@@ -39,7 +39,7 @@ No meu curso, seguimos a abordagem de **PBL (Problem-Based Learning)**, que me p
 ## 🤝 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/stheffannynascimento)
-- [GitHub](https://github.com/stheffannynascimento)
+- [GitHub](https://github.com/StheffannyNAlves)
 
 ---
 
