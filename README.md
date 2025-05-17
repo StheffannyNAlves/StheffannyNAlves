@@ -10,7 +10,7 @@
 Sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS), apaixonada por tecnologia, resolução de problemas e, especialmente, cibersegurança.  
 Atualmente, estou focada em desenvolver habilidades técnicas e práticas na área, com ênfase em segurança ofensiva, defensiva e forense digital.
 
-No meu curso, seguimos a abordagem de **PBL (Problem-Based Learning)**, que me permite aprender por meio da resolução de problemas reais desde os primeiros semestres. Essa metodologia tem me ajudado a construir uma base sólida de pensamento crítico, autonomia e aplicação prática — características essenciais para o mundo da segurança digital.
+No meu curso, seguimos a abordagem de **PBL (Problem-Based Learning)**, que me permite aprender por meio da resolução de problemas reais desde os primeiros semestres. Essa metodologia tem me ajudado a construir uma base sólida de pensamento crítico, autonomia e aplicação prática, características essenciais para o mundo da segurança digital.
 
 ---
 
