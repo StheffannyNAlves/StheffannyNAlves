@@ -19,10 +19,6 @@ No meu curso, seguimos a abordagem de **PBL (Problem-Based Learning)**, que me p
 - Fundamentos de Cibersegurança
 - Linux para Segurança da Informação
 - Redes e Protocolos
-- Python aplicado à automação e segurança
-- Criptografia e Segurança de Sistemas
-- Análise Forense (em progresso)
-- Testes de Intrusão e Pentest (iniciando)
 
 ---
 
