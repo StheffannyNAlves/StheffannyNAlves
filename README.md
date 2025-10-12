@@ -1,43 +1,66 @@
-# 👩🏿‍💻 Stheffanny Nascimento
+# 👩🏿‍💻 Stheffanny Nascimento  
 
-🎓 Estudante de Engenharia de Computação na UEFS | 🚀 Entusiasta em Cibersegurança  
-🔐 Foco em Segurança Ofensiva, Defensiva e Forense Digital | 🌱 Em constante aprendizado
+🎓 Engenharia de Computação — UEFS  
+🧩 Forense de Hardware & Segurança de Baixo Nível  
 
----
-
-## 🧠 Sobre mim
-
-Sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana (UEFS), apaixonada por tecnologia, resolução de problemas e, especialmente, cibersegurança.  
-Atualmente, estou focada em desenvolver habilidades técnicas e práticas na área, com ênfase em segurança ofensiva, defensiva e forense digital.
-
-No meu curso, seguimos a abordagem de **PBL (Problem-Based Learning)**, que me permite aprender por meio da resolução de problemas reais desde os primeiros semestres. Essa metodologia tem me ajudado a construir uma base sólida de pensamento crítico, autonomia e aplicação prática, características essenciais para o mundo da segurança digital.
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stheffannynascimento/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:stheffanny710@gmail.com)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/StheffannyAlves)
 
 ---
 
-## 🛠️ Habilidades em desenvolvimento
+### 🧠 Sobre Mim
 
-- Fundamentos de Cibersegurança
-- Linux para Segurança da Informação
-- Redes e Protocolos
+Sou estudante de Engenharia de Computação com foco em compreender e proteger sistemas no ponto onde o software encontra o silício.  
+Meu interesse está em **Forense de Hardware** — a arte de extrair evidências e verdades diretamente dos circuitos.
 
----
-
-## 🎯 Objetivos atuais
-
-- 📚 Aprofundar meus conhecimentos em cibersegurança, com foco prático e teórico
-- 🤝 Participar de comunidades técnicas e projetos colaborativos
-- 🧪 Desenvolver projetos pessoais com base em problemas reais (PBL)
-- 💼 Buscar oportunidades de estágio e networking na área
-- 🌍 Evoluir em inglês técnico para atuação internacional
+Acredito que segurança real nasce de entendimento físico e lógico do sistema.  
+Uso a metodologia **PBL (Problem-Based Learning)** para investigar, construir e resolver problemas de engenharia com autonomia e pensamento crítico.
 
 ---
 
-## 🤝 Vamos nos conectar?
+### 🗺️ Roadmap de Formação Técnica
 
-- [LinkedIn](https://www.linkedin.com/in/stheffannynascimento)
-- [GitHub](https://github.com/StheffannyNAlves)
+Atualmente, estou estruturando minha base técnica em sistemas embarcados e segurança de baixo nível, por meio de projetos próprios e estudos contínuos.  
+Este roadmap é o eixo central do meu aprendizado e serve como registro público da minha evolução.
+
+| Projeto | Descrição | Status |
+| :--- | :--- | :--- |
+| 🛡️ [Programa de Formação em Forense de Hardware](https://github.com/StheffannyAlves/hardware-forensics-roadmap) | Conjunto de projetos práticos que abrangem desde análise de firmware e protocolos até a implementação de Secure Boot e a exploração de ataques de canal lateral. | 📚 Em desenvolvimento |
 
 ---
 
-_"Aprendendo com propósito, construindo com paixão."_ ✨
+### 🛠️ Domínios Técnicos & Ferramentas de Foco
+
+**Arquitetura e Hardware**
+- Microcontroladores ARM (STM32)
+- Protocolos: I²C, SPI, UART
+- Depuração: GDB, analisadores lógicos
+
+**Linguagens e Paradigmas**
+- C (bare-metal, tempo real)
+- Python (automação, análise e scripts forenses)
+
+**Segurança e Forense**
+- Análise de Firmware
+- Mecanismos de Secure Boot
+- Ataques e Defesas de Canal Lateral
+
+**Ferramentas e Ambientes**
+- STM32CubeIDE, CMSIS-DSP, Saleae Logic
+- Wireshark, Git, VS Code
+
+---
+
+### 🎯 Próximas Missões
+
+- **[Agora]** 📚 Consolidar minha base em arquitetura, algoritmos e C embarcado — transformando teoria em prática real.  
+- **[Em preparação]** ⚙️ Montar o ambiente STM32 e iniciar experimentos com o projeto *Unidade de Controle e Diagnóstico*.  
+- **[Ao longo de 2026]** 🔐 Aprofundar fundamentos de criptografia embarcada e construir um nó de telemetria seguro.  
+- **[Constante]** 🤝 Participar de comunidades de segurança e engenharia reversa de hardware.  
+- **[Constante]** 🌍 Aprimorar inglês técnico para leitura, escrita e documentação.
+
+---
+
+_"Aprendendo com propósito, construindo com precisão."_ ⚙️
 
