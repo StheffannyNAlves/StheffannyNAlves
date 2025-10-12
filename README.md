@@ -31,6 +31,7 @@ Este roadmap é o eixo central do meu aprendizado e serve como registro público
 ---
 
 ### 🛠️ Domínios Técnicos & Ferramentas de Foco
+Fazem parte do Programa de Formação em Forense de Hardware:
 
 **Arquitetura e Hardware**
 - Microcontroladores ARM (STM32)
