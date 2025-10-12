@@ -12,7 +12,7 @@
 ### 🧠 Sobre Mim
 
 Sou estudante de Engenharia de Computação com foco em compreender e proteger sistemas no ponto onde o software encontra o silício.  
-Meu interesse está em **Forense de Hardware** — a arte de extrair evidências e verdades diretamente dos circuitos.
+Meu interesse está em **Forense de Hardware**, a arte de extrair evidências e verdades diretamente dos circuitos.
 
 Acredito que segurança real nasce de entendimento físico e lógico do sistema.  
 Uso a metodologia **PBL (Problem-Based Learning)** para investigar, construir e resolver problemas de engenharia com autonomia e pensamento crítico.
@@ -54,7 +54,7 @@ Este roadmap é o eixo central do meu aprendizado e serve como registro público
 
 ### 🎯 Próximas Missões
 
-- **[Agora]** 📚 Consolidar minha base em arquitetura, algoritmos e C embarcado — transformando teoria em prática real.  
+- **[Agora]** 📚 Consolidar minha base em arquitetura, algoritmos e C embarcado, transformando teoria em prática real.  
 - **[Em preparação]** ⚙️ Montar o ambiente STM32 e iniciar experimentos com o projeto *Unidade de Controle e Diagnóstico*.  
 - **[Ao longo de 2026]** 🔐 Aprofundar fundamentos de criptografia embarcada e construir um nó de telemetria seguro.  
 - **[Constante]** 🤝 Participar de comunidades de segurança e engenharia reversa de hardware.  
