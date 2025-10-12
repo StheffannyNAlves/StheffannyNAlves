@@ -40,6 +40,7 @@ Este roadmap é o eixo central do meu aprendizado e serve como registro público
 **Linguagens e Paradigmas**
 - C (bare-metal, tempo real)
 - Python (automação, análise e scripts forenses)
+- Assembly ARMv7
 
 **Segurança e Forense**
 - Análise de Firmware
