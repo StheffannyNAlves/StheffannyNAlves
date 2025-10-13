@@ -41,7 +41,7 @@ Fazem parte do Programa de Formação em Forense de Hardware:
 **Linguagens e Paradigmas**
 - C (bare-metal, tempo real)
 - Python (automação, análise e scripts forenses)
-- Assembly ARMv7
+- Assembly 
 
 **Segurança e Forense**
 - Análise de Firmware
