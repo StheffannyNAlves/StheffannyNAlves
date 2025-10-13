@@ -26,7 +26,7 @@ Este roadmap é o eixo central do meu aprendizado e serve como registro público
 
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
-| 🛡️ [Programa de Formação em Forense de Hardware](https://github.com/StheffannyNAlves/hardware-forensics-roadmap) | Conjunto de projetos práticos que abrangem desde análise de firmware e protocolos até a implementação de Secure Boot e a exploração de ataques de canal lateral. | 📚 Em desenvolvimento |
+| 🛡️ [Programa de Formação em Forense de Hardware](https://github.com/StheffannyNAlves/hardware-forensics-roadmap) | Conjunto de projetos práticos que abrangem desde análise de firmware e protocolos até a implementação de Secure Boot e a exploração de ataques de canal lateral. | Em desenvolvimento |
 
 ---
 
