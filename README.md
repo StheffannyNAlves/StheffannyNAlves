@@ -1,6 +1,7 @@
 # 👩🏿‍💻 Stheffanny Nascimento  
 
-🎓 Engenharia de Computação — UEFS  
+Engenharia de Computação — UEFS |
+Focada na especialização em Forense de Hardware & Segurança de Baixo Nível
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stheffannynascimento/)
@@ -21,46 +22,34 @@ Uso a metodologia **PBL (Problem-Based Learning)** para investigar, construir e 
 
 ### 🗺️ Roadmap de Formação Técnica
 
-Atualmente, estou estruturando minha base técnica em sistemas embarcados e segurança de baixo nível, por meio de projetos próprios e estudos contínuos.  
+A minha missão atual é a execução de um programa de formação rigoroso para construir a minha base técnica em sistemas embarcados e segurança de baixo nível, por meio de projetos próprios e estudos contínuos.  
 Este roadmap é o eixo central do meu aprendizado e serve como registro público da minha evolução.
 
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
-| 🛡️ [Programa de Formação em Forense de Hardware](https://github.com/StheffannyNAlves/hardware-forensics-roadmap) | Conjunto de projetos práticos que abrangem desde análise de firmware e protocolos até a implementação de Secure Boot e a exploração de ataques de canal lateral. | Em desenvolvimento |
+| 🛡️ [Programa de Formação em Forense de Hardware](https://github.com/StheffannyNAlves/hardware-forensics-roadmap) | Um conjunto de projetos práticos que servem como a campanha principal, abrangendo desde a análise de firmware até à exploração de ataques de canal lateral, usando táticas de cibersegurança como a principal arma.| Em desenvolvimento |
 
 ---
 
 ### 🛠️ Domínios Técnicos & Ferramentas de Foco
-Fazem parte do Programa de Formação em Forense de Hardware:
+As seguintes áreas são os pilares do meu programa de formação. O foco atual está na construção da base através de projetos práticos e da aplicação da teoria académica. 
+Um conjunto de projetos práticos que servem como a campanha principal, abrangendo desde a análise de firmware até à exploração de ataques de canal lateral, usando táticas de cibersegurança como a principal arma.
+* **Arquitetura e Hardware:** Microcontroladores ARM (STM32), Protocolos (I²C, SPI, UART), Analisadores Lógicos
+* **Linguagens e Paradigmas:** C (bare-metal), Python (automação e análise forense), Assembly
+* **Táticas de Cibersegurança & Forense:** Análise de Firmware, Mecanismos de Secure Boot, Ataques de Canal Lateral, Pentesting (como ferramenta de análise)
+* **Ferramentas:** GDB, Wireshark, Git, Ambientes de Virtualização
 
-**Arquitetura e Hardware**
-- Microcontroladores ARM (STM32)
-- Protocolos: I²C, SPI, UART
-- Depuração: GDB, analisadores lógicos
 
-**Linguagens e Paradigmas**
-- C (bare-metal, tempo real)
-- Python (automação, análise e scripts forenses)
-- Assembly 
-
-**Segurança e Forense**
-- Análise de Firmware
-- Mecanismos de Secure Boot
-- Ataques e Defesas de Canal Lateral
-
-**Ferramentas e Ambientes**
-- STM32CubeIDE, CMSIS-DSP, Saleae Logic
-- Wireshark, Git, VS Code
 
 ---
 
-### 🎯 Próximas Missões
+### Próximas Missões
 
-- **[Agora]** 📚 Consolidar minha base em arquitetura, algoritmos e C embarcado, transformando teoria em prática real.  
-- **[Em preparação]** ⚙️ Montar o ambiente STM32 e iniciar experimentos com o projeto *Unidade de Controle e Diagnóstico*.  
-- **[Ao longo de 2026]** 🔐 Aprofundar fundamentos de criptografia embarcada e construir um nó de telemetria seguro.  
-- **[Constante]** 🤝 Participar de comunidades de segurança e engenharia reversa de hardware.  
-- **[Constante]** 🌍 Aprimorar inglês técnico para leitura, escrita e documentação.
+- **[Agora]**  Consolidar minha base em arquitetura, algoritmos e C embarcado, transformando teoria em prática real.  
+- **[Em preparação]**  Montar o ambiente STM32 e iniciar experimentos com o projeto *Unidade de Controle e Diagnóstico*.  
+- **[Ao longo de 2026]**  Aprofundar fundamentos de criptografia embarcada e construir um nó de telemetria seguro.  
+- **[Constante]**  Participar de comunidades de segurança e engenharia reversa de hardware.  
+- **[Constante]**  Aprimorar inglês técnico para leitura, escrita e documentação.
 
 ---
 
