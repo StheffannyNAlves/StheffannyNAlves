@@ -61,6 +61,9 @@ O foco atual está na **construção de base prática** e **aplicação direta d
 > _"Aprendendo com propósito, construindo com precisão."_ ⚙️  
 
 ---
+ 🤝 Conecte-se
+> _"Interessado em Segurança de Hardware? Adoraria colaborar em projetos de baixo nível ou trocar conhecimentos. Sinta-se à vontade para me contatar!"_
+---
 
 <div align="center">
 
