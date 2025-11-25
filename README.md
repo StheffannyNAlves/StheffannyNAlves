@@ -16,7 +16,7 @@
 
 <br/>
 
-## ⚡ Sobre Mim
+## Sobre Mim
 
 Engenheira de Computação (UEFS) especializada na **intersecção crítica entre hardware e software**. 
 
@@ -30,7 +30,7 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 
 ---
 
-### 🛠️ Arsenal Técnico
+### Ferramentas
 
 | Categoria | Stack |
 | :--- | :--- |
@@ -41,4 +41,13 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 
 ---
 
+### Contato
 
+> Aberta a desafios e colaborações na área de segurança de baixo nível. Sinta-se à vontade para entrar em contato.
+
+---
+
+<div align="center">
+  <h3>🚀 Progresso e Constância</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StheffannyNAlves&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Stheffanny Streak" />
+</div>
