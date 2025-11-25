@@ -30,7 +30,7 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 
 ---
 
-### Ferramentas
+### Foco de Estudo e Desenvolvimento
 
 | Categoria | Stack |
 | :--- | :--- |
@@ -48,6 +48,10 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 ---
 
 <div align="center">
-  <h3>🚀 Progresso e Constância</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StheffannyNAlves&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Stheffanny Streak" />
+  <h3>🗺️ Mapa de Contribuição</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StheffannyNAlves/StheffannyNAlves/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StheffannyNAlves/StheffannyNAlves/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/StheffannyNAlves/StheffannyNAlves/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
