@@ -18,7 +18,7 @@
 
 ## Sobre Mim
 
-Engenheira de Computação (UEFS) especializada na **intersecção crítica entre hardware e software**. 
+Graduanda em Eng. de Computação(UEFS) e Pesquisadora de Segurança Embarcada. 
 
 Meu trabalho foca em **Embedded Cybersecurity** e **Low-Level Forensics**, auditando a segurança de microcontroladores e desenvolvendo métodos de extração de evidências que eliminam abstrações de software.
 
