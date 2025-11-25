@@ -41,11 +41,4 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 
 ---
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+
