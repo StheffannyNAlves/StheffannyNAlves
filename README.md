@@ -1,53 +1,47 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Stheffanny&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Embedded%20Security%20%26%20Digital%20Forensics&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+</div>
 
-# Stheffanny Nascimento
-
-**Estudante de Engenharia de Computação — UEFS**
-<br>
-*Foco em Segurança de Hardware & Análise Forense de Baixo Nível*
-
-[<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stheffannynascimento/)
-[<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:stheffanny710@gmail.com)
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/C-Bare--Metal-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-ARM-red?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Forensics-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware-Hacking-black?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MCU-STM32%20%7C%20RP2040-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-GDB%20%7C%20OpenOCD-green?style=for-the-badge&logo=gnu&logoColor=white" />
 
 </div>
 
----
+<br/>
 
-### Sobre Mim
+## ⚡ Sobre Mim
 
-Sou estudante de Engenharia de Computação com foco na intersecção entre o hardware e o software. Meu principal interesse é a segurança de sistemas em seu nível mais fundamental, com ênfase em **análise forense de dispositivos embarcados** e **hardware hacking** como método de investigação e fortalecimento de sistemas.
+Engenheira de Computação (UEFS) especializada na **intersecção crítica entre hardware e software**. 
 
----
+Meu trabalho foca em **Embedded Cybersecurity** e **Low-Level Forensics**, auditando a segurança de microcontroladores e desenvolvendo métodos de extração de evidências que eliminam abstrações de software.
 
-### Foco de Estudo e Desenvolvimento
+Atuo investigando a integridade física e lógica de sistemas embarcados, com ênfase em:
 
-Atualmente, estou dedicada a construir e aprofundar meu conhecimento prático nas seguintes áreas:
-
-- **Segurança & Forense:**
-  - Análise de Firmware, Engenharia Reversa, Segurança de Aplicações Web, Análise de Protocolos de Rede.
-
-- **Linguagens & Paradigmas:**
-  - C (Bare-Metal), Python, Assembly (ARM), Verilog.
-
-- **Hardware & Arquitetura:**
-  - Microcontroladores (ARM), FPGAs, Protocolos (I²C, SPI, UART), Arquitetura de Computadores.
-
-- **Ferramentas:**
-  - Git, GDB, Wireshark, Docker, Ambientes de Virtualização, Analisadores Lógicos.
+* 🕵️‍♀️ **Forensics:** Extração direta de memória (SWD/MMIO) e análise de *dump* de firmware.
+* 🛡️ **Defensive:** Implementação de Secure Boot, MPU Hardening e TrustZones.
+* ⚔️ **Offensive:** Pesquisa em Side-Channel Analysis e Fault Injection.
 
 ---
 
-### Contato
+### 🛠️ Arsenal Técnico
 
-> Aberta a desafios e colaborações na área de segurança de baixo nível. Sinta-se à vontade para entrar em contato.
+| Categoria | Stack |
+| :--- | :--- |
+| **Linguagens** | C (Bare-Metal), Assembly (ARM Thumb-2), Python (Scripting & Analysis), Verilog |
+| **Hardware Alvo** | ARM Cortex-M4 (STM32), Dual-Core Cortex-M0+ (RP2040), FPGAs |
+| **Protocolos** | UART, SPI, I2C (Low-level implementation & Sniffing) |
+| **Engenharia Reversa** | Ghidra, GDB, Binwalk, Wireshark |
 
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StheffannyNAlves&theme=github-compact&bg_color=0d1117&color=58a6ff&line=238636&point=79c0ff&hide_border=true" width="98%" />
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
