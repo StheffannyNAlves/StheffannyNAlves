@@ -26,7 +26,7 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 
 * 🕵️‍♀️ **Forensics:** Extração direta de memória (SWD/MMIO) e análise de *dump* de firmware.
 * 🛡️ **Defensive:** Implementação de Secure Boot, MPU Hardening e TrustZones.
-* ⚔️ **Offensive:** Pesquisa em Side-Channel Analysis e Fault Injection.
+* ⚔️ **Offensive:** Learning Fault Injection.
 
 ---
 
@@ -35,7 +35,7 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 | Categoria | Stack |
 | :--- | :--- |
 | **Linguagens** | C (Bare-Metal), Assembly (ARM Thumb-2), Python (Scripting & Analysis), Verilog |
-| **Hardware Alvo** | ARM Cortex-M4 (STM32), Dual-Core Cortex-M0+ (RP2040), FPGAs |
+| **Hardware Alvo** |  Dual-Core Cortex-M0+ (RP2040), FPGAs |
 | **Protocolos** | UART, SPI, I2C (Low-level implementation & Sniffing) |
 | **Engenharia Reversa** | Ghidra, GDB, Binwalk, Wireshark |
 
