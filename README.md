@@ -46,6 +46,7 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 > Aberta a desafios e colaborações na área de segurança de baixo nível. Sinta-se à vontade para entrar em contato.
 
 ---
+![Sthe's GitHub stats](https://github-readme-stats.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=dark)
 
 <div align="center">
   <h3>🗺️ Mapa de Contribuição</h3>
