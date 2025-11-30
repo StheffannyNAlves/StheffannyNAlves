@@ -48,10 +48,9 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=dracula&hide_border=true" alt="Stats da Sthe" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=dracula&hide_border=true" alt="Linguagens" height="180" />
 </div>
-
 
 
 <div align="center">
