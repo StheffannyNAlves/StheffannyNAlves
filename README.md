@@ -48,8 +48,12 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=dracula&hide_border=true" alt="Stats da Sthe" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=dracula&hide_border=true" alt="Linguagens" height="180" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=dracula&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=dracula&hide_border=true" />
+  </a>
 </div>
 
 
