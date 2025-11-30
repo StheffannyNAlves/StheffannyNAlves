@@ -47,8 +47,7 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stheffannynalves&show_icons=true&theme=tokyonight&hide_border=true)
-
+[![Sthe's GitHub stats](https://github-readme-stats.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
