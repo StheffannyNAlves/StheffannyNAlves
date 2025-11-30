@@ -47,7 +47,7 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StheffaNAny&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StheffaNAlvesany&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
