@@ -46,11 +46,15 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 > Aberta a desafios e colaborações na área de segurança de baixo nível. Sinta-se à vontade para entrar em contato.
 
 ---
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=dracula&hide_border=true&v=12025" alt="Stats da Sthe" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=dracula&hide_border=true&v=12025" alt="Linguagens" />
+  <img height="180" src="https://github-readme-stats-iipx8hblj-stheffannynalves-projects.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=dracula&hide_border=true" alt="Sthe Stats" />
+  <img height="180" src="https://github-readme-stats-iipx8hblj-stheffannynalves-projects.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=dracula&hide_border=true" alt="Sthe Languages" />
 </div>
+
+
+
+
+
 
 <div align="center">
   <h3>🗺️ Mapa de Contribuição</h3>
