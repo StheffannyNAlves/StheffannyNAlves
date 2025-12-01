@@ -51,7 +51,7 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
   <img height="180" src="https://github-readme-stats-virid-six-52.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=dracula&hide_border=true" alt="Sthe Languages" />
 </div>
 
-
+---
 
 
 
