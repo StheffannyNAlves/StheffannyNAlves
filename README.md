@@ -47,8 +47,10 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 
 ---
 <div align="center">
-  <img height="180" src="https://github-readme-stats-iipx8hblj-stheffannynalves-projects.vercel.app/api?username=StheffannyNAlves&show_icons=true&theme=dracula&hide_border=true" alt="Sthe Stats" />
-  <img height="180" src="https://github-readme-stats-iipx8hblj-stheffannynalves-projects.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=dracula&hide_border=true" alt="Sthe Languages" />
+  <img height="180" src="https://github-readme-stats-virid-six-52.vercel.app
+/api?username=StheffannyNAlves&show_icons=true&theme=dracula&hide_border=true" alt="Sthe Stats" />
+  <img height="180" src="https://github-readme-stats-virid-six-52.vercel.app
+/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=dracula&hide_border=true" alt="Sthe Languages" />
 </div>
 
 
