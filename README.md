@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Python-Forensics-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardware-Hacking-black?style=for-the-badge&logo=hack-the-box&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/MCU-STM32%20%7C%20RP2040-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCU-%20%7C%20RP2040-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-GDB%20%7C%20OpenOCD-green?style=for-the-badge&logo=gnu&logoColor=white" />
 
 </div>
@@ -34,8 +34,8 @@ Atuo investigando a integridade física e lógica de sistemas embarcados, com ê
 
 | Categoria | Stack |
 | :--- | :--- |
-| **Linguagens** | C (Bare-Metal), Assembly (ARM Thumb-2), Python (Scripting & Analysis), Verilog |
-| **Hardware Alvo** |  Dual-Core Cortex-M0+ (RP2040), FPGAs |
+| **Linguagens** | C (Bare-Metal), Assembly (ARM Thumb-2), Python (Scripting & Analysis)|
+| **Hardware Alvo** |  Dual-Core Cortex-M0+ (RP2040)|
 | **Protocolos** | UART, SPI, I2C (Low-level implementation & Sniffing) |
 | **Engenharia Reversa** | Ghidra, GDB, Binwalk, Wireshark |
 
