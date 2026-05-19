@@ -20,7 +20,7 @@
 
 Graduanda em Eng. de Computação(UEFS) e Pesquisadora de Segurança Embarcada. 
 
-Meu trabalho foca em **Embedded Cybersecurity** e **Low-Level Forensics**, auditando a segurança de microcontroladores e desenvolvendo métodos de extração de evidências que eliminam abstrações de software.
+Meu estudo atual foca em **Embedded Cybersecurity** e **Low-Level Forensics**, auditando a segurança de microcontroladores e desenvolvendo métodos de extração de evidências que eliminam abstrações de software.
 
 Atuo investigando a integridade física e lógica de sistemas embarcados, com ênfase em:
 
