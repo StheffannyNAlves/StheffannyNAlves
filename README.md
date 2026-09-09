@@ -62,11 +62,9 @@ Core data structures implemented in C (linked list, stack, queue, AVL tree, B-tr
 **B.Sc. in Computer Engineering** — UEFS *(in progress)*
 Universidade Estadual de Feira de Santana
 
-## 📊 GitHub Stats
+## 💻 Linguagens mais utilizadas
 
-<p>
-  <img src="https://raw.githubusercontent.com/StheffannyNAlves/StheffannyNAlves/main/metrics.svg" />
-</p>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&langs_count=8)
 
 ## 📫 Contact
 
