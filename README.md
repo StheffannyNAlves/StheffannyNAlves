@@ -1,15 +1,7 @@
 # Stheffanny N. Alves
 
-**Computer Engineering undergraduate | Embedded Systems**
+**Computer Engineering undergraduate — Embedded Systems, Firmware & Embedded Security**
 
-<p>
-  <img src="https://img.shields.io/badge/C-Bare--Metal-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARM-Cortex--M0%2B-0091BD?style=flat-square&logo=arm&logoColor=white" />
-  <img src="https://img.shields.io/badge/RP2040-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protocol-SWD-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p># 
 I'm an undergraduate in Computer Engineering at UEFS. My focus is low-level software: bare-metal firmware, ARM Cortex-M0+, debug protocols (SWD), and firmware security. I build toward embedded security research as a long-term goal, and work in Java/Spring Boot backend as a parallel, more immediately employable track — the two feed into the same longer-term interest: backend systems that orchestrate hardware fleets (IoT/Edge).
 
 I'm a member of the IEEE Robotics and Automation Society (RAS) and Women in Engineering (WIE) chapters at UEFS.
@@ -52,14 +44,5 @@ B.Sc. in Computer Engineering (in progress) — Universidade Estadual de Feira d
 
 ## Contact
 
+- GitHub: [StheffannyNAlves](https://github.com/StheffannyNAlves)
 - LinkedIn: [Stheffanny Nascimento](https://linkedin.com/in/stheffannynascimento)
-
-
-<div align="center">
-  <h3>🗺️ Mapa de Contribuição</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StheffannyNAlves/StheffannyNAlves/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StheffannyNAlves/StheffannyNAlves/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/StheffannyNAlves/StheffannyNAlves/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
