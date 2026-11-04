@@ -11,6 +11,7 @@ I learn by building and documenting projects, from firmware running directly on 
 | Project | What it demonstrates |
 | --- | --- |
 | **[Dolos — SWD Forensic Extractor](https://github.com/StheffannyNAlves/swd-forensic-extractor)** | Work in progress: building an RP2040-based probe to communicate with a target over SWD. Focus on protocol implementation, target control, and low-level debugging. |
+| **[Cosmo Robot — IEEE RAS](https://github.com/StheffannyNAlves/Cosmo-Robot)** | Collaborative robotics project with IEEE RAS. Exploring embedded development and SSD1306 OLED displays, with Pico and Linux experiments organized in separate branches. |
 | **[RP2040 Bare-Metal Hardware Validation Lab](https://github.com/StheffannyNAlves/Uart-baremetal-rp2040)** | Manual boot/runtime setup, linker and memory layout, clock configuration, GPIO, and UART via memory-mapped registers, with documented hardware validation. |
 | **[Forkeazando](https://github.com/StheffannyNAlves/Forkeazando)** | Java narrative game developed in an academic PBL setting, exploring software architecture, persistence, automated tests, and evolving requirements. |
 | **[Tetris Terminal](https://github.com/StheffannyNAlves/tetris-terminal)** | A terminal game in Python using curses and NumPy, developed under specific academic constraints. |
