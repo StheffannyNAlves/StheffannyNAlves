@@ -32,8 +32,6 @@ This research complements my embedded-systems interests by strengthening my foun
 
 ![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=normal&theme=tokyonight&langs_count=8&stats_format=percentages)
 
-*Percentages represent language usage in eligible public repositories, not proficiency.*
-
 ## Currently exploring
 
 - Studying **ACO-based optimization**, search-space decomposition, and route-planning methods through my undergraduate research.
@@ -43,7 +41,7 @@ This research complements my embedded-systems interests by strengthening my foun
 
 ## Community
 
-Computer Engineering at **UEFS** · IEEE **Robotics and Automation Society (RAS)** and **Women in Engineering (WIE)**.
+Computer Engineering at **UEFS** · IEEE **Robotics and Automation Society (RAS)**, **[Industrial Electronics Society (IES)](https://www.ieee-ies.org/)**, and **Women in Engineering (WIE)**.
 
 ## Contact
 
