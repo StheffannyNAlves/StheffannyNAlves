@@ -28,6 +28,18 @@ This research complements my embedded-systems interests by strengthening my foun
 - **Software development:** Java, Python, C++, object-oriented design, data structures, automated testing.
 - **Workflow:** Git, GitHub, Linux, debugging, technical documentation, and hardware measurements.
 
+## Languages & technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=compact&theme=tokyonight&langs_count=8)
+
+*The chart reflects language usage across indexed repositories, not proficiency.*
+
 ## Currently exploring
 
 - Studying **ACO-based optimization**, search-space decomposition, and route-planning methods through my undergraduate research.
