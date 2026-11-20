@@ -1,48 +1,52 @@
 # Stheffanny N. Alves
 
-**Computer Engineering undergraduate @ UEFS | Embedded Systems · Bare-metal Firmware · Hardware Security**
+**Graduanda em Engenharia de Computação na UEFS | Sistemas Embarcados · Firmware Bare-metal · Segurança de Hardware**
 
-I'm a Computer Engineering undergraduate and volunteer undergraduate researcher (PVIC) at the State University of Feira de Santana (UEFS), Brazil. I'm especially interested in understanding computers below the abstraction layers: **ARM Cortex-M microcontrollers, memory maps, registers, boot sequences, communication interfaces, and hardware debugging**.
+Sou estudante de Engenharia de Computação na **Universidade Estadual de Feira de Santana (UEFS)** e pesquisadora voluntária de iniciação científica (PVIC). Tenho interesse especial em compreender o que acontece **por baixo das camadas de abstração**: arquitetura de computadores, microcontroladores ARM Cortex-M, mapas de memória, registradores, inicialização do sistema, interfaces de comunicação e depuração de hardware.
 
-I learn by building and documenting projects, from firmware running directly on the RP2040 to larger Java applications. My long-term direction is **embedded systems and hardware/firmware security**; I'm also developing software engineering skills through Java, testing, and backend studies.
+Aprendo construindo, testando e documentando projetos. Minha direção de longo prazo é **sistemas embarcados e segurança de hardware/firmware**, sem deixar de desenvolver fundamentos de engenharia de software, algoritmos e pesquisa científica.
 
-## Undergraduate research
+Este perfil reúne tanto minha **trajetória de aprendizagem** quanto projetos que formam meu **portfólio técnico**. Há trabalhos concluídos e outros em desenvolvimento; procuro distinguir o que já foi testado do que ainda é objetivo.
 
-I'm currently participating in **volunteer undergraduate research (PVIC/UEFS)** under the supervision of **Prof. Dr. Delmar Broglio Carvalho**, studying **combinatorial optimization and route planning**. My work focuses on understanding **Ant Colony Optimization (ACO)**, systematic partitioning of the search space, and approaches for exploring and optimizing candidate solutions.
+## Iniciação científica
 
-This research complements my embedded-systems interests by strengthening my foundations in algorithms, computational experimentation, and problem-solving.
+Participo de uma **iniciação científica voluntária (PVIC/UEFS)**, orientada pelo **Prof. Dr. Delmar Broglio Carvalho**, na área de otimização combinatória e planejamento de rotas.
 
-## Projects 
+Estou estudando **Otimização por Colônia de Formigas (ACO)**, divisão do espaço de busca e estratégias para avaliar custo computacional e qualidade das soluções. A pesquisa complementa meus interesses em embarcados ao fortalecer minha base em algoritmos, experimentação e análise de resultados.
 
-| Project | What it demonstrates |
+## Projetos em destaque
+
+| Projeto | O que exploro |
 | --- | --- |
-| **[Dolos — SWD Forensic Extractor](https://github.com/StheffannyNAlves/swd-forensic-extractor)** | Work in progress: building an RP2040-based probe to communicate with a target over SWD. Focus on protocol implementation, target control, and low-level debugging. |
-| **[Cosmo Robot — IEEE RAS](https://github.com/StheffannyNAlves/Cosmo-Robot)** | Collaborative robotics project with IEEE RAS. Exploring embedded development and SSD1306 OLED displays, with Pico and Linux experiments organized in separate branches. |
-| **[RP2040 Bare-Metal Hardware Validation Lab](https://github.com/StheffannyNAlves/Uart-baremetal-rp2040)** | Manual boot/runtime setup, linker and memory layout, clock configuration, GPIO, and UART via memory-mapped registers, with documented hardware validation. |
-| **[Forkeazando](https://github.com/StheffannyNAlves/Forkeazando)** | Java narrative game developed in an academic PBL setting, exploring software architecture, persistence, automated tests, and evolving requirements. |
-| **[Tetris Terminal](https://github.com/StheffannyNAlves/tetris-terminal)** | A terminal game in Python using curses and NumPy, developed under specific academic constraints. |
+| **[Dolos — SWD Forensic Extractor](https://github.com/StheffannyNAlves/swd-forensic-extractor)** | **Em desenvolvimento.** Sonda baseada em RP2040 para comunicação SWD, implementação do protocolo, controle do alvo e depuração em baixo nível. |
+| **[Cosmo Robot — IEEE RAS](https://github.com/StheffannyNAlves/Cosmo-Robot)** | Projeto colaborativo de robótica, com displays SSD1306, sensores, comunicação, interação por voz e experimentos com RP2040 e Linux. |
+| **[RP2040 Bare-Metal Hardware Validation Lab](https://github.com/StheffannyNAlves/Uart-baremetal-rp2040)** | **Etapa de validação concluída.** Inicialização manual do firmware, linker, memória, clocks, GPIO e UART via registradores, com evidências de bancada. |
+| **[Forkeazando](https://github.com/StheffannyNAlves/Forkeazando)** | Jogo narrativo em Java criado em contexto acadêmico PBL, com arquitetura de software, persistência, testes automatizados e migração para JavaFX. |
+| **[Tetris Terminal](https://github.com/StheffannyNAlves/tetris-terminal)** | Jogo em Python com `curses` e NumPy, desenvolvido sob restrições específicas de uma disciplina. |
 
-## Technical interests & tools
+## Conhecimentos e ferramentas
 
-- **Embedded / low-level:** C, ARM assembly, RP2040, Cortex-M0+, bare-metal development, MMIO, UART, SWD.
-- **Software development:** Java, Python, C++, object-oriented design, data structures, automated testing.
-- **Workflow:** Git, GitHub, Linux, debugging, technical documentation, and hardware measurements.
+- **Sistemas embarcados e baixo nível:** C, Assembly ARM, RP2040, Cortex-M0+, firmware bare-metal, MMIO, UART e SWD.
+- **Desenvolvimento de software:** Java, Python, C++, orientação a objetos, estruturas de dados e testes automatizados.
+- **Ferramentas e práticas:** Git, GitHub, Linux, depuração, documentação técnica e medições em bancada.
 
-## Most used languages
+As tecnologias citadas refletem **experiência de estudo e aplicação**, não necessariamente domínio avançado de todas elas.
 
-![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=normal&theme=tokyonight&langs_count=8&stats_format=percentages)
+## Linguagens mais utilizadas
 
-## Currently exploring
+![Linguagens mais utilizadas no GitHub](https://github-stats-extended.vercel.app/api/top-langs/?username=StheffannyNAlves&layout=normal&theme=tokyonight&langs_count=8&stats_format=percentages)
 
-- Studying **ACO-based optimization**, search-space decomposition, and route-planning methods through my undergraduate research.
-- Debugging and validating the SWD communication path in **Dolos**.
-- Evolving **Forkeazando** while strengthening software design and testing practices.
-- Building a stronger foundation in computer architecture, digital electronics, and embedded security.
+## Em estudo e desenvolvimento
 
-## Community
+- Pesquisa com ACO, decomposição do espaço de busca e avaliação experimental de estratégias de busca.
+- Depuração e validação da comunicação SWD no **Dolos**.
+- Evolução do **Forkeazando**, com atenção a arquitetura, testes e separação de responsabilidades.
+- Fundamentos de **arquitetura de computadores, circuitos digitais, sistemas operacionais e segurança de hardware**.
 
-Computer Engineering at **UEFS** · IEEE **Robotics and Automation Society (RAS)**, **[Industrial Electronics Society (IES)](https://www.ieee-ies.org/)**, and **Women in Engineering (WIE)**.
+## Comunidade acadêmica
 
-## Contact
+Engenharia de Computação na **UEFS** · IEEE **Robotics and Automation Society (RAS)** · **[Industrial Electronics Society (IES)](https://www.ieee-ies.org/)** · **Women in Engineering (WIE)**.
+
+## Contato
 
 [LinkedIn — Stheffanny Nascimento](https://linkedin.com/in/stheffannynascimento)
