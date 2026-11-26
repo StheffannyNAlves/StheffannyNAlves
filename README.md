@@ -1,4 +1,6 @@
-# Stheffanny N. Alves
+# Stheffanny Alves
+
+**Stheffanny Nascimento Alves** — também conhecida como **Stheffanny Nascimento**.
 
 **Graduanda em Engenharia de Computação na UEFS | Sistemas Embarcados · Firmware Bare-metal · Segurança de Hardware**
 
